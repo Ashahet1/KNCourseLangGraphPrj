@@ -7,6 +7,7 @@ This project leverages LangGraph to automate blog creation using open-source Lar
 - Quality checking
 
 Integrated LangSmith tracing ensures effective debugging and content quality assurance.
+![image](https://github.com/user-attachments/assets/c19ceebd-2de1-4d2e-b9a3-39d172bebdfe)
 
 ## 2. AI Code Review Peer Reviewer
 This tool helps developers by automatically reviewing their code using a structured workflow with LangGraph. Steps include:
