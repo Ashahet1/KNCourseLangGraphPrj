@@ -34,4 +34,7 @@ This application creates technical documentation from high-level requirements th
 - Iterative content refinement based on feedback (up to two iterations)
 
 Utilizes Grok api to access open ai gpt-4o model with fallback options. LangSmith provides comprehensive debugging and performance analysis.
+![Gemini_Generated_Image_vcxfrsvcxfrsvcxf](https://github.com/user-attachments/assets/2b3596bc-4ce6-4289-8cbe-890d693dbf7a)
+PS: image is generateed using Imagen 4.0
+
 
